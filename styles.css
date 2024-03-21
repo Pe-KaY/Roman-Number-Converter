@@ -135,9 +135,6 @@ input:focus {
   #bottom {
     width: 100%;
   }
-  .container {
-    border: 2px solid red;
-  }
 }
 
 /*xl*/
